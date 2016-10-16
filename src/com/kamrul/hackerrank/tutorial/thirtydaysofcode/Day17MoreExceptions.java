@@ -17,7 +17,7 @@ class Calculator {
 	
 }
 
-public class MoreExceptions {
+public class Day17MoreExceptions {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

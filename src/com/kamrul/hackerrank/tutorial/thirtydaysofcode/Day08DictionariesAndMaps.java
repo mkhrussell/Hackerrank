@@ -3,7 +3,7 @@ package com.kamrul.hackerrank.tutorial.thirtydaysofcode;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class DictionariesAndMaps {
+public class Day08DictionariesAndMaps {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

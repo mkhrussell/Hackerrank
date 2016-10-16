@@ -2,7 +2,7 @@ package com.kamrul.hackerrank.tutorial.thirtydaysofcode;
 
 import java.util.Scanner;
 
-public class IntroToConditionalStatements {
+public class Day03IntroToConditionalStatements {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

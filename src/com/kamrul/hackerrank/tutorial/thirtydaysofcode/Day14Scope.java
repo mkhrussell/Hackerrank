@@ -2,7 +2,7 @@ package com.kamrul.hackerrank.tutorial.thirtydaysofcode;
 
 import java.util.Scanner;
 
-public class Scope {
+public class Day14Scope {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

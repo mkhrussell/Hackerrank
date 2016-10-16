@@ -2,7 +2,7 @@ package com.kamrul.hackerrank.tutorial.thirtydaysofcode;
 
 import java.util.Scanner;
 
-public class ExceptionsStringToIntegerDay16 {
+public class Day16ExceptionsStringToInteger {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

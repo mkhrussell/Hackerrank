@@ -11,7 +11,7 @@ class Node {
     }
 }
 
-public class LinkedListDay15 {
+public class Day15LinkedList {
 
 	public static  Node insert(Node head, int data) {
 		if(head == null) {
